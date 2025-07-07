@@ -33,7 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seedart007&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="45%"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seedart007&show_icons=true&locale=en" alt="seedart007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seedart007&" alt="seedart007" /></p>
 
