@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seedart007" alt="seedart007" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/@chakseed66288" target="blank"><img src="https://img.shields.io/twitter/follow/@chakseed66288?logo=twitter&style=for-the-badge" alt="@chakseed66288" /></a> </p>
 
