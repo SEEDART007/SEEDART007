@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="./demo.gif" alt="Demo GIF" />
+  <img src="./demo2.gif" alt="Demo GIF" />
 </p>
 
 <p align="left"> <a href="https://twitter.com/@chakseed66288" target="blank"><img src="https://img.shields.io/twitter/follow/@chakseed66288?logo=twitter&style=for-the-badge" alt="@chakseed66288" /></a> </p>
