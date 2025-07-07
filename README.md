@@ -3,7 +3,7 @@
 
 
 
-![Demo]([https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif])
+![Demo](./demo.gif)
 
 <p align="left"> <a href="https://twitter.com/@chakseed66288" target="blank"><img src="https://img.shields.io/twitter/follow/@chakseed66288?logo=twitter&style=for-the-badge" alt="@chakseed66288" /></a> </p>
 
