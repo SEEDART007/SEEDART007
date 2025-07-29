@@ -74,7 +74,7 @@ jobs:
 
         env:
 
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
 
 
 
@@ -86,7 +86,7 @@ jobs:
 
         with:
 
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.SNAKE_TOKEN }}
 
           publish_dir: ./dist
 
