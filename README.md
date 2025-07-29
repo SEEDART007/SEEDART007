@@ -42,7 +42,6 @@
 
 ## 🛠️ Tech Stack
 
-### 🚀 Languages & Frameworks
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
@@ -55,7 +54,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
 </p>
 
-### 💻 Frameworks & Libraries
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
@@ -64,7 +62,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
 </p>
 
-### 🧰 Tools & Platforms
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
