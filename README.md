@@ -97,9 +97,9 @@
 
 ## 🐍 GitHub Contribution Snake
 
-<p align="center">
+
 ![snake gif](https://github.com/SEEDART007/SEEDART007/blob/output/github-snake-dark.svg)
-</p>
+
 
 ---
 
