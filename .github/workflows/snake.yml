@@ -40,7 +40,7 @@ jobs:
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.SNAKE_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
           commit_message: "🐍 Update snake animation [skip ci]"
