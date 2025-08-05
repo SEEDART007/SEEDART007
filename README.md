@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Siddhartha — aka <span style="color:#00bcd4">SeedArt</span></h1>
-<h3 align="center">🚀 A passionate Full Stack Web Developer from India</h3>
+<h1 align="center"> Hi, I'm Siddhartha — aka <span style="color:#00bcd4">SeedArt</span></h1>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 <p align="center">
   <img src="./demo2.gif" alt="Developer at work" width="80%" />
@@ -91,9 +91,6 @@
 </p>
 
 ---
-
-## 🐍 GitHub Contribution Snake
-
 
 ![snake gif](https://github.com/SEEDART007/SEEDART007/blob/output/github-snake-dark.svg)
 
