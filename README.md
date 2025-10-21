@@ -83,7 +83,8 @@
 </p>
 
 ---
-
+##Hactoberfest 
+[![An image of @seedart007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/seedart007)](https://holopin.io/@seedart007)
 ## 🏆 GitHub Trophies
 
 <p align="center">
